@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "trusteeshipTime",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "3101": {
+      "id": 3101,
+      "GameType": "ddz",
+      "ClientTime": 60000,
+      "ServerTime": 3600000,
+      "Roomtype": 1
+    },
+    "3102": {
+      "id": 3102,
+      "GameType": "ddz",
+      "ClientTime": 60000,
+      "ServerTime": 65000,
+      "Roomtype": 2
+    }
+  }
+}

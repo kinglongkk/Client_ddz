@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ani-chuntian-img-spring_4",
+    "texture": "a16659fd-7e79-4aa8-bd48-a0c74b1482ec",
+    "atlas": "804e942a-d0c5-4e8f-8baa-6703b73f999c",
+    "rect": [
+      289,
+      262,
+      289,
+      148
+    ],
+    "offset": [
+      0,
+      5
+    ],
+    "originalSize": [
+      289,
+      264
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

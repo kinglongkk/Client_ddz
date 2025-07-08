@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ani/fail/img/eff_shu_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,320},{349,307}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{355,320}</string>
+			</dict>
+			<key>ani/fail/img/eff_shu_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{343,320}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{355,320}</string>
+			</dict>
+			<key>ani/fail/img/eff_shu_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{650,349},{349,307}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{355,320}</string>
+			</dict>
+			<key>ani/fail/img/eff_shu_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{343,313},{355,307}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{355,320}</string>
+			</dict>
+			<key>ani/fail/img/eff_shu_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{343,0},{349,313}}</string>
+				<key>offset</key>
+				<string>{0,4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{355,320}</string>
+			</dict>
+			<key>ani/fail/img/eff_shu_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{692,0},{349,313}}</string>
+				<key>offset</key>
+				<string>{0,4}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{355,320}</string>
+			</dict>
+			<key>ani/fail/img/eff_shu_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{650,656},{349,307}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{355,320}</string>
+			</dict>
+			<key>ani/fail/img/eff_shu_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{307,668},{349,307}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{355,320}</string>
+			</dict>
+			<key>ani/fail/img/eff_shu_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,669},{349,307}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{355,320}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>ani.png</string>
+			<key>realTextureFileName</key>
+			<string>ani.png</string>
+			<key>size</key>
+			<string>{1005,1018}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1005</integer>
+			<key>height</key>
+			<integer>1018</integer>
+		</dict>
+	</dict>
+</plist>

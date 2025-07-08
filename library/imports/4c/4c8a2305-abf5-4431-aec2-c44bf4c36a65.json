@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ani-roket-img-eff_rocket_3",
+    "texture": "92d837a9-e37f-411c-94e2-7aa4c19a53a8",
+    "atlas": "a54e2d48-7421-4886-a465-ae3d47a769b3",
+    "rect": [
+      232,
+      861,
+      111,
+      129
+    ],
+    "offset": [
+      -15,
+      -72
+    ],
+    "originalSize": [
+      285,
+      320
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

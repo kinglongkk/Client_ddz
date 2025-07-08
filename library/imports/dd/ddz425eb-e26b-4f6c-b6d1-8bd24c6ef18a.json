@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_fct",
+    "texture": "ddz7f31b-ef57-40b6-881b-39e48827e230",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      129,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      129,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

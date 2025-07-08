@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ani-liandui-img-01",
+    "texture": "e6deeeea-7f9f-498a-9228-2be17a665054",
+    "atlas": "1fc262b4-4827-4ad6-bdcb-5896fb7058dd",
+    "rect": [
+      0,
+      88,
+      160,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

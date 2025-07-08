@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dizhushibai",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.21666666666666667,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ddz5f387-f870-47ad-8c49-0c60eabafcb9"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "ddz2e765-a658-4e86-bb10-68d4f4cd0052"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "ddz04d81-e696-42d9-bf58-1477c9ac5404"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "ddz3b469-7ebc-456c-8b48-07f1de231958"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "ddzb8aa1-da12-4411-a33c-794cfa91ccba"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "ddzb8aa1-da12-4411-a33c-794cfa91ccba"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

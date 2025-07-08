@@ -1,0 +1,66 @@
+(function() {"use strict";var __module = CC_EDITOR ? module : {exports:{}};var __filename = 'preview-scripts/assets/script/ddz_app.js';var __require = CC_EDITOR ? function (request) {return cc.require(request, require);} : function (request) {return cc.require(request, __filename);};function __define (exports, require, module) {"use strict";
+cc._RF.push(module, 'ddzj6d1a-b34a-45a5-baea-4592f5384b8c', 'ddz_app', __filename);
+// script/ddz_app.js
+
+'use strict';
+
+/*
+    客户端公共require模块
+*/
+
+require('JSBaseModule');
+var BaseClass = require('BaseClass');
+var bluebird = require("bluebird");
+var i18n = require("i18n");
+var MD5Tool = require("MD5Tool");
+
+//不需要创建单例的API
+var apiDict = {
+    "BaseClass": BaseClass["BaseClass"],
+    "DBBaseClass": BaseClass["DBBaseClass"],
+    "bluebird": bluebird,
+    "i18n": i18n,
+    "MD5": MD5Tool
+};
+
+module.exports = apiDict;
+
+//子游戏名称
+var subGameName = "ddz";
+
+module.exports.subGameName = subGameName;
+
+//需要创建单例的API
+var NeedCreateList = [
+//define
+"ddz_ShareDefine", "ddz_ComTool", "LocalDataManager", "ddz_UtilsWord",
+
+//基础模块
+"ddz_SysDataManager", "ddz_SysNotifyManager", "ddz_ConfirmManager", "ddz_ControlManager", "ddz_HttpPack", "ddz_NetRequest", "ddz_NetWork", "ddz_NetManager", "ddz_SDKManager", "ddz_WeChatManager", "ddz_WeChatAppManager", "ddz_DownLoadMgr", "ddz_LocationOnStartMgr", "ddz_HotUpdateMgr",
+
+//资源模块
+"ddz_SceneManager", "ddz_FormManager", "ddz_EffectManager", "ddz_SoundManager", "ddz_AudioManager", "ddz_HeadManager",
+//数据管理器
+"ddz_ServerTimeManager", "ddz_HeroAccountManager", "ddz_HeroManager", "ddz_NativeManager",
+
+//-----汇总数据管理器----
+"ddz_GameManager",
+
+//-----牌局相关-------
+"DDZRoom", "DDZRoomMgr", "DDZRoomSet", "DDZRoomPosMgr", "LogicDDZGame", "DDZDefine", "ddz_PokerCard"];
+
+module.exports.NeedCreateList = NeedCreateList;
+
+cc._RF.pop();
+        }
+        if (CC_EDITOR) {
+            __define(__module.exports, __require, __module);
+        }
+        else {
+            cc.registerModuleFunc(__filename, function () {
+                __define(__module.exports, __require, __module);
+            });
+        }
+        })();
+        //# sourceMappingURL=ddz_app.js.map
+        

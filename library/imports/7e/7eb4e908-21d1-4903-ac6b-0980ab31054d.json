@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_tg4",
+    "texture": "35ebb199-5d9b-4517-8adb-221d985fd101",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      9,
+      8
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      9,
+      8
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

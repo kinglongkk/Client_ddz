@@ -1,0 +1,48 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "SceneInfo",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "ddzMainScene": {
+      "SceneType": "ddzMainScene",
+      "Name": "主场景",
+      "ComponentName": "ddz_SceneMain",
+      "gamePrefab": "0",
+      "IsCanMove": 1,
+      "CameraMoveType": 0,
+      "SwitchImage": "0",
+      "BackGroundSound": "MainScene"
+    },
+    "ddzScene": {
+      "SceneType": "ddzScene",
+      "Name": "斗地主场景",
+      "ComponentName": "ddz_BaseScene",
+      "gamePrefab": "game/DDZ/UIDDZ_Play",
+      "IsCanMove": 1,
+      "CameraMoveType": 0,
+      "SwitchImage": "0",
+      "BackGroundSound": "0"
+    },
+    "ddzVideoScene": {
+      "SceneType": "ddzVideoScene",
+      "Name": "斗地主回放场景",
+      "ComponentName": "ddzVideoScene",
+      "gamePrefab": "game/DDZ/UIDDZVideo",
+      "IsCanMove": 1,
+      "CameraMoveType": 0,
+      "SwitchImage": "0",
+      "BackGroundSound": "0"
+    },
+    "ddzLoginScene": {
+      "SceneType": "ddzLoginScene",
+      "Name": "登陆场景",
+      "ComponentName": "ddz_SceneLogin",
+      "gamePrefab": "ui/ddz_UILogin",
+      "IsCanMove": 0,
+      "CameraMoveType": 0,
+      "SwitchImage": "0",
+      "BackGroundSound": "MainScene"
+    }
+  }
+}

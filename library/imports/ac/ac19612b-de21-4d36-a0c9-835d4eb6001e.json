@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_bujiao",
+    "texture": "7178b6d3-53cd-4996-b988-3c49477a1a05",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

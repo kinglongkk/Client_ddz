@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_openMusic",
+    "texture": "ddz40af5-9dd8-453a-adb9-6cca273d10aa",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      60,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

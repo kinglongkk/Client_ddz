@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ani_hj09",
+    "texture": "ddzdbd32-0941-4a57-80d1-6de547f7f584",
+    "atlas": "",
+    "rect": [
+      53,
+      29,
+      596,
+      513
+    ],
+    "offset": [
+      26.5,
+      -6.5
+    ],
+    "originalSize": [
+      649,
+      558
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

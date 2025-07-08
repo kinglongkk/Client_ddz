@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ani-sidaier-img-04",
+    "texture": "ca44d1e7-44d3-4376-8df6-6158bc150f7f",
+    "atlas": "1961bfae-d455-443e-a2e1-088625b3c725",
+    "rect": [
+      1,
+      1,
+      246,
+      137
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      246,
+      137
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

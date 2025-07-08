@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_zkdi",
+    "texture": "02e65727-9612-4bb1-b87d-cf2d029734f0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      291,
+      759
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      291,
+      759
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ani-fail-img-eff_shu_4",
+    "texture": "70a4419c-3392-4c3f-a7fb-4e421bf72289",
+    "atlas": "f7ff8be4-0edf-4349-8a77-8dce66703100",
+    "rect": [
+      343,
+      313,
+      355,
+      307
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      355,
+      320
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

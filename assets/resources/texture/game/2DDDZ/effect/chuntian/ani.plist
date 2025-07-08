@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ani/chuntian/img/spring_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,406},{206,124}}</string>
+				<key>offset</key>
+				<string>{-4,7}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{289,264}</string>
+			</dict>
+			<key>ani/chuntian/img/spring_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,264},{232,142}}</string>
+				<key>offset</key>
+				<string>{-3,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{289,264}</string>
+			</dict>
+			<key>ani/chuntian/img/spring_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{289,262},{289,148}}</string>
+				<key>offset</key>
+				<string>{0,5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{289,264}</string>
+			</dict>
+			<key>ani/chuntian/img/spring_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{578,217},{289,187}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{289,264}</string>
+			</dict>
+			<key>ani/chuntian/img/spring_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{578,0},{289,217}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{289,264}</string>
+			</dict>
+			<key>ani/chuntian/img/spring_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{289,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{289,264}</string>
+			</dict>
+			<key>ani/chuntian/img/spring_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{289,0},{289,262}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{289,264}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>ani.png</string>
+			<key>realTextureFileName</key>
+			<string>ani.png</string>
+			<key>size</key>
+			<string>{867,530}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>867</integer>
+			<key>height</key>
+			<integer>530</integer>
+		</dict>
+	</dict>
+</plist>

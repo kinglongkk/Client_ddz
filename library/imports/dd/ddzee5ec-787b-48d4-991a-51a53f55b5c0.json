@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "number_time_0",
+    "texture": "ddz84857-cf5e-46ce-b367-91ba7e9da830",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      113,
+      51
+    ],
+    "offset": [
+      -6.5,
+      38.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

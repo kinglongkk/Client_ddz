@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wangzha02",
+    "texture": "ddz1b101-3f9c-436c-8a3a-12738e1925bd",
+    "atlas": "",
+    "rect": [
+      0,
+      4,
+      186,
+      91
+    ],
+    "offset": [
+      -1,
+      -2
+    ],
+    "originalSize": [
+      188,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

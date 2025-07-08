@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lb_btn_mp",
+    "texture": "ddz81850-11f8-4d69-bd41-8ecad662ff1b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

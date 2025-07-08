@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_talk",
+    "texture": "ddz8711c-1ca1-47cd-958f-009bc274d344",
+    "atlas": "",
+    "rect": [
+      0,
+      4,
+      60,
+      52
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      60,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

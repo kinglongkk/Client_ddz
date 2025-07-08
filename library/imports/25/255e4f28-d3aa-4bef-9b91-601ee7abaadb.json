@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ani.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "ani-boom-img-cardPatterm7": {
+      "__uuid__": "646b743c-e165-463d-bb87-a6fded05b425"
+    },
+    "ani-boom-img-eff_boom_1": {
+      "__uuid__": "3d841845-41de-4887-9b34-acf3fbe6e793"
+    },
+    "ani-boom-img-eff_boom_10": {
+      "__uuid__": "b15fc86d-b2cf-4bdd-9e7d-ba5ce5f89aae"
+    },
+    "ani-boom-img-eff_boom_11": {
+      "__uuid__": "c33594ec-5920-4f8b-8701-458a5fd76540"
+    },
+    "ani-boom-img-eff_boom_2": {
+      "__uuid__": "5ca467ed-eccf-4ef7-939a-33a10b1c2a84"
+    },
+    "ani-boom-img-eff_boom_3": {
+      "__uuid__": "822cfee6-8d1c-4538-9da4-7699389db49f"
+    },
+    "ani-boom-img-eff_boom_4": {
+      "__uuid__": "f7263f5e-2fb9-48fd-b143-3b40d53ecd47"
+    },
+    "ani-boom-img-eff_boom_5": {
+      "__uuid__": "50be2ac0-aaeb-4788-b3f7-e5a997394c01"
+    },
+    "ani-boom-img-eff_boom_6": {
+      "__uuid__": "4e73f607-b4c7-47bc-bf40-7b3e290ed50e"
+    },
+    "ani-boom-img-eff_boom_7": {
+      "__uuid__": "4aa89a23-cb9d-4ce4-8a8b-f9490d1fdbae"
+    },
+    "ani-boom-img-eff_boom_8": {
+      "__uuid__": "fb0e8933-df9e-4d46-8603-03f129272612"
+    },
+    "ani-boom-img-eff_boom_9": {
+      "__uuid__": "f8f3c6a1-e6a1-41fc-84dc-b92dbef545a3"
+    }
+  }
+}

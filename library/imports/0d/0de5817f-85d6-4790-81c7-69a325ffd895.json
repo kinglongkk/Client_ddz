@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sandaiyi",
+    "texture": "d18d1a2e-0266-4202-9433-97dd428bd5be",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      233,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      233,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

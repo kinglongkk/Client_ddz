@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_cardDevice",
+    "texture": "ddzab539-2eae-4a92-93f3-2d057eb9af08",
+    "atlas": "",
+    "rect": [
+      5,
+      0,
+      50,
+      55
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      60,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

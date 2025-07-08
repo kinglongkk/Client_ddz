@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "trusteeship",
+    "texture": "5ba9a443-bfcd-4c25-b6f9-86d17ccc41f9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

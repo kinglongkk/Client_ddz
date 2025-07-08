@@ -1,0 +1,47 @@
+{
+  "10031004003": {
+    "id": "10031004003",
+    "GameType": "DDZ",
+    "SetCount": 4,
+    "PeopleMin": 3,
+    "PeopleMax": 3,
+    "AaCostCount": 1,
+    "WinCostCount": 3,
+    "CostCount": 3,
+    "ClubAaCostCount": 1,
+    "ClubWinCostCount": 3,
+    "ClubCostCount": 3,
+    "UnionCostCount": 3,
+    "Sign": 1
+  },
+  "10031008003": {
+    "id": "10031008003",
+    "GameType": "DDZ",
+    "SetCount": 8,
+    "PeopleMin": 3,
+    "PeopleMax": 3,
+    "AaCostCount": 2,
+    "WinCostCount": 6,
+    "CostCount": 6,
+    "ClubAaCostCount": 2,
+    "ClubWinCostCount": 6,
+    "ClubCostCount": 6,
+    "UnionCostCount": 6,
+    "Sign": 1
+  },
+  "10031016003": {
+    "id": "10031016003",
+    "GameType": "DDZ",
+    "SetCount": 16,
+    "PeopleMin": 3,
+    "PeopleMax": 3,
+    "AaCostCount": 4,
+    "WinCostCount": 12,
+    "CostCount": 12,
+    "ClubAaCostCount": 4,
+    "ClubWinCostCount": 12,
+    "ClubCostCount": 12,
+    "UnionCostCount": 12,
+    "Sign": 1
+  }
+}

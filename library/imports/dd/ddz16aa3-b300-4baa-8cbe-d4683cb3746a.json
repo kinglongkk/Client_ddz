@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_closeMusic",
+    "texture": "ddz3ddc0-ef87-4ae6-8a98-1d181ad7e967",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      66,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

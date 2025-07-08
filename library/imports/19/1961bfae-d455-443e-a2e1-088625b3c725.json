@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ani.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "ani-sidaier-img-01": {
+      "__uuid__": "fce51771-2d9d-4f90-8ab3-975bb89bf725"
+    },
+    "ani-sidaier-img-02": {
+      "__uuid__": "bc67c252-02c3-4a2f-ae5f-868d410b6d79"
+    },
+    "ani-sidaier-img-03": {
+      "__uuid__": "2ab4fa98-c774-4ea0-a243-db23bfbffad6"
+    },
+    "ani-sidaier-img-04": {
+      "__uuid__": "ff76743b-54bf-47a6-a215-22ccf89aa614"
+    },
+    "ani-sidaier-img-w06": {
+      "__uuid__": "ecd5f73e-1864-4f75-8acc-49aa908b5ee6"
+    }
+  }
+}

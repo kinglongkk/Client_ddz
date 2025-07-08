@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ani/boom/img/cardPatterm7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{260,184}}</string>
+				<key>offset</key>
+				<string>{0,-3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,190}</string>
+			</dict>
+			<key>ani/boom/img/eff_boom_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{864,218},{79,105}}</string>
+				<key>offset</key>
+				<string>{7,-22}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{215,188}</string>
+			</dict>
+			<key>ani/boom/img/eff_boom_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,184},{211,180}}</string>
+				<key>offset</key>
+				<string>{2,3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{215,188}</string>
+			</dict>
+			<key>ani/boom/img/eff_boom_11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{475,0},{200,174}}</string>
+				<key>offset</key>
+				<string>{-3,6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{215,188}</string>
+			</dict>
+			<key>ani/boom/img/eff_boom_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{211,184},{79,43}}</string>
+				<key>offset</key>
+				<string>{3,-56}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{215,188}</string>
+			</dict>
+			<key>ani/boom/img/eff_boom_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{864,297},{64,67}}</string>
+				<key>offset</key>
+				<string>{0,-43}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{215,188}</string>
+			</dict>
+			<key>ani/boom/img/eff_boom_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{931,297},{64,66}}</string>
+				<key>offset</key>
+				<string>{0,-44}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{215,188}</string>
+			</dict>
+			<key>ani/boom/img/eff_boom_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{871,121},{97,113}}</string>
+				<key>offset</key>
+				<string>{-11,-27}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{215,188}</string>
+			</dict>
+			<key>ani/boom/img/eff_boom_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{871,0},{149,121}}</string>
+				<key>offset</key>
+				<string>{-1,-29}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{215,188}</string>
+			</dict>
+			<key>ani/boom/img/eff_boom_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{675,173},{189,173}}</string>
+				<key>offset</key>
+				<string>{-9,4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{215,188}</string>
+			</dict>
+			<key>ani/boom/img/eff_boom_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{675,0},{196,173}}</string>
+				<key>offset</key>
+				<string>{2,7}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{215,188}</string>
+			</dict>
+			<key>ani/boom/img/eff_boom_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{260,0},{215,187}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{215,188}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>ani.png</string>
+			<key>realTextureFileName</key>
+			<string>ani.png</string>
+			<key>size</key>
+			<string>{1020,364}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1020</integer>
+			<key>height</key>
+			<integer>364</integer>
+		</dict>
+	</dict>
+</plist>

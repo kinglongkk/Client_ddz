@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_porker_dun",
+    "texture": "ddz5cd10-0bed-4e25-a274-42d6cbe9f1fe",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      46,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

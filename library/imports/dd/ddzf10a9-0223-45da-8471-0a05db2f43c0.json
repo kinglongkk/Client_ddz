@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "number_jpq_syzs_0",
+    "texture": "ddzcbb72-86b9-40a8-8547-e9cd7e405669",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      123,
+      53
+    ],
+    "offset": [
+      -2.5,
+      37.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

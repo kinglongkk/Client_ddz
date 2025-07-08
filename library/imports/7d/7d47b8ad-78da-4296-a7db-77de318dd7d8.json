@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ani-win-img-eff_ying_7",
+    "texture": "61d2bef3-be2b-41b2-9c12-c2d86dcf5f64",
+    "atlas": "7c7be853-7564-422b-9d6e-824b926e980b",
+    "rect": [
+      307,
+      614,
+      350,
+      307
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      354,
+      320
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

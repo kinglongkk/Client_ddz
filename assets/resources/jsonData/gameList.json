@@ -1,0 +1,11 @@
+{
+  "31": {
+    "id": 31,
+    "gameName": "ddz",
+    "gameType": "poker",
+    "region": "all",
+    "imgUrl": "texture/ui/newMain/btn_ddz",
+    "sortNum": 1,
+    "isOpen": 1
+  }
+}

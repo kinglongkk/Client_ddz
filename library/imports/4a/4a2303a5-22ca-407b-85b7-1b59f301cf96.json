@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sidaisan",
+    "texture": "5db69bb1-e6e9-46b0-bc4c-7ba6dc0c7113",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      237,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      237,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

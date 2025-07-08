@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_buqiang",
+    "texture": "d681bcd3-73c1-4508-a227-610772b7fa13",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      69,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_time",
+    "texture": "ddz1bd98-c267-4ba0-bedf-c18b6494f01a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      90
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      75,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

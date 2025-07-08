@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ani.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "ani-win-img-eff_ying_10": {
+      "__uuid__": "c9583389-fb02-4dba-b9a2-e26d16b2af31"
+    },
+    "ani-win-img-eff_ying_2": {
+      "__uuid__": "ca96b217-6993-48d2-962f-664197be7864"
+    },
+    "ani-win-img-eff_ying_3": {
+      "__uuid__": "bc930ad6-86d0-4c23-b52d-064f867c4a5d"
+    },
+    "ani-win-img-eff_ying_4": {
+      "__uuid__": "94aef7ab-e9c5-4f71-8225-d8e72231263f"
+    },
+    "ani-win-img-eff_ying_5": {
+      "__uuid__": "cce44cee-e7ca-46f1-84b4-56578aa1d139"
+    },
+    "ani-win-img-eff_ying_6": {
+      "__uuid__": "acf1b86e-e60a-4a6d-aad8-4573ff5257ce"
+    },
+    "ani-win-img-eff_ying_7": {
+      "__uuid__": "7d47b8ad-78da-4296-a7db-77de318dd7d8"
+    },
+    "ani-win-img-eff_ying_8": {
+      "__uuid__": "dc41e5aa-c6c3-4f40-beec-185f13fa93ee"
+    },
+    "ani-win-img-eff_ying_9": {
+      "__uuid__": "94221a8f-b2fa-4edd-99c4-792446b8aed0"
+    }
+  }
+}

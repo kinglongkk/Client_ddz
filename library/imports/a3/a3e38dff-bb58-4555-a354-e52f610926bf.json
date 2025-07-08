@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_suspended",
+    "texture": "87fb99ce-7065-49d7-ac5b-6edbd51a8584",
+    "atlas": "",
+    "rect": [
+      6,
+      1,
+      54,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

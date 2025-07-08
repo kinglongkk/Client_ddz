@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sidailiangdui",
+    "texture": "abb49734-6a77-4e94-a494-711a431df744",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      279,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      279,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

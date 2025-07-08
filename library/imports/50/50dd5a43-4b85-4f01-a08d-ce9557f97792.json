@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_difen",
+    "texture": "1777e3fd-8029-4bf8-90e3-763c154eed83",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      416,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      416,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

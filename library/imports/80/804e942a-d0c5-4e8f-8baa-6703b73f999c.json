@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ani.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "ani-chuntian-img-spring_2": {
+      "__uuid__": "f139ac66-4525-4be4-85d0-d887e5f76a88"
+    },
+    "ani-chuntian-img-spring_3": {
+      "__uuid__": "e663dd34-fdbe-4780-8e34-940d022c5abc"
+    },
+    "ani-chuntian-img-spring_4": {
+      "__uuid__": "6f26a357-f20f-42d6-9f47-7b1172a30fc5"
+    },
+    "ani-chuntian-img-spring_5": {
+      "__uuid__": "b657d4c6-acd5-4833-b42e-c445c8acfd92"
+    },
+    "ani-chuntian-img-spring_6": {
+      "__uuid__": "82c17638-7128-4b25-83c1-ff195fd0ab8a"
+    },
+    "ani-chuntian-img-spring_7": {
+      "__uuid__": "ccc18909-a3a5-4259-985a-764a7432d339"
+    },
+    "ani-chuntian-img-spring_8": {
+      "__uuid__": "c9233067-a354-4dac-bb5c-386bd633ac4b"
+    }
+  }
+}

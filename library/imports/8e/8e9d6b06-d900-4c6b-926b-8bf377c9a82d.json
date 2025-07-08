@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ani-feiji-img-light01",
+    "texture": "5413a4fd-002c-453f-8c3d-884a2f40a02d",
+    "atlas": "aad1a466-e0d3-4faf-957a-0d4b0791b06f",
+    "rect": [
+      0,
+      0,
+      452,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      452,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

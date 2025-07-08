@@ -1,0 +1,19 @@
+{
+  "actualPlatform": "android",
+  "apiLevel": "android-26",
+  "appABIs": [],
+  "buildPath": "/Users/huangjinlong/builds/ddz",
+  "debug": false,
+  "embedWebDebugger": false,
+  "keystoreAlias": "",
+  "keystoreAliasPassword": "",
+  "keystorePassword": "",
+  "keystorePath": "",
+  "platform": "android",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "sourceMaps": false,
+  "template": "default",
+  "useDebugKeystore": true,
+  "vsVersion": "auto"
+}

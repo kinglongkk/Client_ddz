@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_forward",
+    "texture": "95a3332b-ac3f-4bd0-acd6-162762b8db35",
+    "atlas": "",
+    "rect": [
+      0,
+      6,
+      65,
+      49
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      66,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

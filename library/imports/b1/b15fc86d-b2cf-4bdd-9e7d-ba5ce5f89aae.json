@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ani-boom-img-eff_boom_10",
+    "texture": "70bfd410-bef6-4fee-bcde-9a4b647fc334",
+    "atlas": "255e4f28-d3aa-4bef-9b91-601ee7abaadb",
+    "rect": [
+      0,
+      184,
+      211,
+      180
+    ],
+    "offset": [
+      2,
+      3
+    ],
+    "originalSize": [
+      215,
+      188
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

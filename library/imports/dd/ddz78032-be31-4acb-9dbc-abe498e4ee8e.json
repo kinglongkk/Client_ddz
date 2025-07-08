@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "number_js_lose_0",
+    "texture": "ddz8f6a4-21dc-4842-9c01-8c7e2530330e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      235,
+      89
+    ],
+    "offset": [
+      -10.5,
+      83.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

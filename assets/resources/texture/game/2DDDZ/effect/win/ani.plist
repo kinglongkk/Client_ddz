@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ani/win/img/eff_ying_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{343,307},{350,307}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{354,320}</string>
+			</dict>
+			<key>ani/win/img/eff_ying_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{343,320}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{354,320}</string>
+			</dict>
+			<key>ani/win/img/eff_ying_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{693,353},{350,307}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{354,320}</string>
+			</dict>
+			<key>ani/win/img/eff_ying_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{697,0},{353,307}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{354,320}</string>
+			</dict>
+			<key>ani/win/img/eff_ying_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{343,0},{354,307}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{354,320}</string>
+			</dict>
+			<key>ani/win/img/eff_ying_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,320},{350,307}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{354,320}</string>
+			</dict>
+			<key>ani/win/img/eff_ying_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{307,614},{350,307}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{354,320}</string>
+			</dict>
+			<key>ani/win/img/eff_ying_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,670},{350,307}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{354,320}</string>
+			</dict>
+			<key>ani/win/img/eff_ying_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{657,703},{350,307}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{354,320}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>ani.png</string>
+			<key>realTextureFileName</key>
+			<string>ani.png</string>
+			<key>size</key>
+			<string>{1007,1020}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1007</integer>
+			<key>height</key>
+			<integer>1020</integer>
+		</dict>
+	</dict>
+</plist>

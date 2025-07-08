@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mingpai01_001",
+    "texture": "ddz7d5e9-307a-4753-833a-22eec40f0f49",
+    "atlas": "",
+    "rect": [
+      62,
+      31,
+      154,
+      166
+    ],
+    "offset": [
+      5.5,
+      19.5
+    ],
+    "originalSize": [
+      267,
+      267
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

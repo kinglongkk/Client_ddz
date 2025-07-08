@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_lx",
+    "texture": "ddz1ef0e-3545-4e0b-a6dd-ffdf183b442d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      59,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ani.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "ani-roket-img-eff_rocket_1": {
+      "__uuid__": "a4c2bace-7563-4211-b9ec-d9c408fc6b09"
+    },
+    "ani-roket-img-eff_rocket_2": {
+      "__uuid__": "5a8c7340-553e-4f6e-95fd-99171a1a21bd"
+    },
+    "ani-roket-img-eff_rocket_3": {
+      "__uuid__": "4c8a2305-abf5-4431-aec2-c44bf4c36a65"
+    },
+    "ani-roket-img-eff_rocket_4": {
+      "__uuid__": "7432529b-2208-47a9-b2bb-12ec8039d58c"
+    },
+    "ani-roket-img-eff_rocket_5": {
+      "__uuid__": "e82f4052-556f-454f-bf56-75437ffebbb6"
+    },
+    "ani-roket-img-eff_rocket_6": {
+      "__uuid__": "e47a4f1e-1f4f-4dd3-ad04-ee49aa899724"
+    },
+    "ani-roket-img-eff_rocket_7": {
+      "__uuid__": "58130807-d86a-496f-9ed3-4db79d4298b7"
+    },
+    "ani-roket-img-eff_rocket_8": {
+      "__uuid__": "8ce3d181-6729-492b-a412-015eaba1893a"
+    },
+    "ani-roket-img-eff_rocket_9": {
+      "__uuid__": "940736a6-4729-4670-b644-18431eefd5c2"
+    }
+  }
+}

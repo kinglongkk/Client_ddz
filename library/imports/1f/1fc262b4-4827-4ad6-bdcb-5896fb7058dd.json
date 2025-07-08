@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ani.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "ani-liandui-img-01": {
+      "__uuid__": "ef5c596f-0cda-4745-b5a9-62361608cd2b"
+    },
+    "ani-liandui-img-light01": {
+      "__uuid__": "dec69e42-4f7a-4b90-9f68-0f7b9ef8f4cd"
+    },
+    "ani-liandui-img-light02": {
+      "__uuid__": "fb6c194c-b9f5-4852-99b9-17e5b8cb8b55"
+    }
+  }
+}

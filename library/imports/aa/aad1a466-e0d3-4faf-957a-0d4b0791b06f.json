@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ani.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "ani-feiji-img-01": {
+      "__uuid__": "bef1e410-52c1-41c4-85b6-a1d8652b7ed8"
+    },
+    "ani-feiji-img-02": {
+      "__uuid__": "3600ad4f-a3f0-488b-86dc-60b1603176c0"
+    },
+    "ani-feiji-img-03": {
+      "__uuid__": "b83f6992-97be-45cb-9818-4ec3e85d2635"
+    },
+    "ani-feiji-img-031": {
+      "__uuid__": "e8481ede-6463-49be-94c7-5a2fc58d129a"
+    },
+    "ani-feiji-img-04": {
+      "__uuid__": "8d0a2324-a3dc-4494-8928-87f8974d0d1d"
+    },
+    "ani-feiji-img-05": {
+      "__uuid__": "e91844c4-37df-4c82-84e8-dd636358ab75"
+    },
+    "ani-feiji-img-light01": {
+      "__uuid__": "8e9d6b06-d900-4c6b-926b-8bf377c9a82d"
+    },
+    "ani-feiji-img-light02": {
+      "__uuid__": "c7236447-686f-4e22-9c3f-7999745e520f"
+    }
+  }
+}
